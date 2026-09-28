@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/planhttp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Plan and reshape http text streams with deterministic transforms.",
+  "bin": {
+    "planhttp": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/planhttp.git"
+  },
+  "homepage": "https://theworker02.github.io/planhttp/",
+  "keywords": [
+    "plan",
+    "http",
+    "text",
+    "cli",
+    "toolkit"
+  ]
+}
